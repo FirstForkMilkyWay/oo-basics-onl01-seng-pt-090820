@@ -1,5 +1,6 @@
 # Make your shoe class here!
 
 class Shoe 
-  def in
+  def initialize 
+    
 end 
